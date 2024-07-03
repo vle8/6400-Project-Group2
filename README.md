@@ -1,1 +1,1 @@
-Project for Summer DSAN 6400 Group 2
+# Network Analytics in Finance
